@@ -1,0 +1,1 @@
+alter table course alter column teacher_name drop not null;
